@@ -1,11 +1,11 @@
 # Site settings
 author: Felipe Martin
-title: 
+title: Why did I decide to learn Software Engineering?
 header-img: img/home-bg.png
 email: felipemartin0618@gmail.com
 copyright_name: Felipe Martin
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A new adventure!
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  felipemartin85
